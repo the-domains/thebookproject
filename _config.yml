@@ -2,6 +2,7 @@ name: thebookproject
 favicon: null
 layout_spectrum: 0.18478
 typography_spectrum: 0.99348
+title: The Book Project
 cta:
   domain: null
   bucket: null
